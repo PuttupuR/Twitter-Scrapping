@@ -17,3 +17,6 @@ Create a GUI using streamlit that should contain the feature to enter the keywor
 
 code
 ------
+#scrapping
+#mongo db
+#stremlit
